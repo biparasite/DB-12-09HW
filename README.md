@@ -4,8 +4,6 @@
 
 ## Задание 1
 
-Задание
-
 Создание кластера
 
 1. Перейдите на главную страницу сервиса Managed Service for PostgreSQL.
@@ -83,7 +81,7 @@ select * from test_table;
 
 Реплика
 
-<details> <summary>Master</summary>
+<details> <summary>Replica</summary>
 
 ![replica_all](https://github.com/biparasite/DB-12-09HW/blob/main/replica_all.png "replica_all")
 
